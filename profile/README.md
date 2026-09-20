@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="logo.svg" width="300" alt="LODEXI Logo" />
+  <img src="lodexi-logo.svg" width="300" alt="LODEXI Logo" />
   <h1>Welcome to LODEXI </h1>
   <p>
     <strong>The Enterprise RAG Provider & AI Oracle Ecosystem</strong>

@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lodexi/.github/main/profile/logo.svg" width="200" alt="LODEXI Logo" />
+  <img src="https://raw.githubusercontent.com/lodexi/.github/main/profile/lodexi-logo.svg" width="200" alt="LODEXI Logo" />
 </div>
 
 ## Is your feature request related to a problem? Please describe.
