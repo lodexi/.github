@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 100 100">
+    <!-- Background -->
+    <rect width="100" height="100" fill="#F29191" />
+    
+    <!-- Logo centered -->
+    <g transform="translate(-5, 0)" fill="none">
+        <path d="M 25 15 C 25 15, 25 75, 25 75 C 25 85, 35 85, 35 85 L 85 85" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M 45 35 C 45 35, 45 65, 45 65 C 45 70, 50 70, 50 70 L 75 70" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="25" cy="15" r="4" fill="#FFFFFF"/>
+        <circle cx="85" cy="85" r="4" fill="#FFFFFF"/>
+        <circle cx="45" cy="35" r="4" fill="#FFFFFF"/>
+        <circle cx="75" cy="70" r="4" fill="#FFFFFF"/>
+    </g>
+</svg>
